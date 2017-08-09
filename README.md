@@ -80,6 +80,7 @@ https://glamorous.rocks/examples/
 ### Videos
 
 - [Kent C. Dodds -  walkthrough](https://www.youtube.com/watch?v=lmrQTpJ_3PM)
+- [Kent C. Dodds - Maintainable CSS in React](https://www.youtube.com/watch?v=3-4KsXPO2Q4)
 
 ## License
 
