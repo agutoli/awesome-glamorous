@@ -28,9 +28,11 @@ https://glamorous.rocks/examples/
 
 ### Libraries
 
+
 - [jest-glamor-react](https://github.com/kentcdodds/jest-glamor-react) - Jest utilities for Glamor and React
 - [glamorous-native](https://github.com/robinpowered/glamorous-native) - React Native component styling solved 💄
 - [glamorous-primitives](https://github.com/nitin42/glamorous-primitives) - style primitive interfaces with glamorous 💄
+- [glamor-shadow-dom](https://github.com/agutoli/glamor-shadow-dom) - glamor and Shadow DOM together in React with all the benefits of style encapsulation.
 - [babel-plugin-glamorous-displayname](https://github.com/bernard-lin/babel-plugin-glamorous-displayname) - Automatically adds a `displayName` to your glamorous components for a better debugging experience.
 - [styled-system](https://github.com/jxnblk/styled-system) - Design system utilities for styled-components, glamorous, and other css-in-js libraries
 - [glamorous-pseudo](https://github.com/tkh44/glamorous-pseudo) - Pseudo component to extend built-in GlamorousComponents
